@@ -4,6 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
+  "homepage": "https://david-vloedman.github.io/resty/",
   "dependencies": {
     "@babel/core": "7.4.3",
     "@svgr/webpack": "4.1.0",
