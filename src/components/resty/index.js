@@ -1,4 +1,4 @@
-import "./resty.css";
+import "./resty.scss";
 
 import React from "react";
 import Url from "../url/index";
