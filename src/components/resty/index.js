@@ -1,8 +1,6 @@
 import "./resty.css";
 
 import React from "react";
-// import superagent from 'superagent';
-// import md5 from 'md5';
 import Url from "../url/index";
 import Label from "../label/index";
 import Button from "../button/index";
