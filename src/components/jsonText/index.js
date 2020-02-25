@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import React from "react";
 
 
 /**
@@ -15,7 +15,7 @@ class JsonText extends React.Component {
         placeholder="Raw JSON Body"
         name="requestBody"
         onChange={this.props.onChange}
-        value={this.props.value}
+        // value={this.props.value}
         disabled={          
           this.props.disabled
         }

@@ -11,6 +11,7 @@ class JsonHeader extends React.Component {
   render() {
     return (
       <ReactJson
+        id="JsonHeader"
         name="Headers"
         enableClipboard={false}
         collapsed={true}

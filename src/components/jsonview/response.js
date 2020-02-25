@@ -11,6 +11,7 @@ class JsonResponse extends React.Component {
   render() {
     return (
       <ReactJson
+      id="JsonResponse"
         name="Response"
         enableClipboard={false}
         collapsed={false}

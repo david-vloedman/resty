@@ -74,7 +74,7 @@ class RestyProvider extends React.Component {
     let value = event.target.value;
     this.setState({ [prop]: value });
 
-    // If basic/bearer, clear the other
+    
     if (prop === "token") {
       let username = "";
       let password = "";

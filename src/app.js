@@ -1,5 +1,5 @@
 
-import './style/style.scss';
+import './style/style.css';
 
 import React from 'react';
 
